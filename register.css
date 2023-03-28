@@ -148,7 +148,7 @@ form .buttons{
     align-items: center;
 }
 form .buttons button , .backBtn{
-    margin-right: 14px;
+    margin-right: 15px;
 }
 
 @media (max-width: 750px) {
